@@ -1,0 +1,15 @@
+﻿<Properties GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dynasq.git Status">
+    <Files>
+      <File FileName="DynaSQL/Queryfy.cs" Line="12" Column="13" />
+      <File FileName="DynaSQL/Models/QueriableItem.cs" Line="1" Column="1" />
+      <File FileName="dynasq.git Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
