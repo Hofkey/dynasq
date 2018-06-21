@@ -2642,11 +2642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berendhulshof2/Projects/Hofkey/dynasq.git/DynaSQL/DynaSQL.csproj",
+      "projectUniqueName": "/Users/berendhulshof2/Documents/GitHub/dynasq/DynaSQL/DynaSQL.csproj",
       "projectName": "DynaSQL",
-      "projectPath": "/Users/berendhulshof2/Projects/Hofkey/dynasq.git/DynaSQL/DynaSQL.csproj",
+      "projectPath": "/Users/berendhulshof2/Documents/GitHub/dynasq/DynaSQL/DynaSQL.csproj",
       "packagesPath": "/Users/berendhulshof2/.nuget/packages/",
-      "outputPath": "/Users/berendhulshof2/Projects/Hofkey/dynasq.git/DynaSQL/obj",
+      "outputPath": "/Users/berendhulshof2/Documents/GitHub/dynasq/DynaSQL/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
