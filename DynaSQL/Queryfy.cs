@@ -28,6 +28,9 @@ using DynaSQL.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.CSharp;
 using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.Collections;
+using System;
 
 namespace DynaSQL
 {
