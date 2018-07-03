@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="DesignPattern\DTO\" />
+    <Folder Include="EF\Helpers\" />
+    <Folder Include="EF\Converters\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
